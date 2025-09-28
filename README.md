@@ -9,4 +9,6 @@
   <img src="https://gitpay-vert.vercel.app/api/dashboard?ens=shevxer.eth&show_icons=true" alt="shevxer" />
 </p>
 
+> **NOTE**: due to too many alchemy requests the dashboard api is temporarily not working 🚧
+
 
